@@ -23,8 +23,8 @@ This repository contains a script for Bluetooth spoofing on Linux terminals. The
 2. Navigate to the project directory and run it:
    ```bash
    cd Bluetooth-Spoofing-main
-   chmod +x Bluetooth.sh
-   ./Bluetooth.sh
+   chmod +x Script.sh
+   ./Script.sh
    ```
 
 ### Disclaimer
