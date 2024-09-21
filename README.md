@@ -18,7 +18,7 @@ This repository contains a script for Bluetooth spoofing on Linux terminals. The
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AdityaSodha/Bluetooth-Spoofing/
+   git clone https://github.com/Adityasinh-Sodha/Bluetooth-Spoofing/
    ```
 2. Navigate to the project directory and run it:
    ```bash
