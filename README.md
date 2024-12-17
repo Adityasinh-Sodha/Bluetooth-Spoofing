@@ -33,3 +33,5 @@ This script is intended for educational and testing purposes only. Use it respon
 ### License
 
 This project is licensed under the MIT License.
+## Author
+Developed by **Adityasinh**.
